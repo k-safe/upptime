@@ -15,7 +15,7 @@ sites:
     url: $SUPPORT_URL
   - name: Busby Marketplace
     url: $MARKETPLACE_URL
-  - name: Test Broken Site
+  - name: Test Busby Broken Site
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
