@@ -15,8 +15,8 @@ sites:
     url: $SUPPORT_URL
   - name: Busby Marketplace
     url: $MARKETPLACE_URL
-  - name: Test Busby Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  # - name: Test Busby Broken Site
+  #  url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,7 +25,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://activate.busby.io/static/media/busby-logo-black.2ce4b36e.png
   name: Busby Status
-  introTitle: "This is uptime monitor and status page for Busby, Created by K-Safe."
+  introTitle: "This is uptime monitor and status page for Busby, created by K-Safe."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/k-safe/upptime). 
   navbar:
     - title: Status
