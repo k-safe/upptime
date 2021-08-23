@@ -24,6 +24,7 @@ status-website:
   cname: status1.busby.io
   # baseUrl: /your-repo-name
   logoUrl: https://activate.busby.io/static/media/busby-logo-black.2ce4b36e.png
+  favicon: https://activate.busby.io/favicon.png
   name: Busby Status
   introTitle: "This is uptime monitor and status page for Busby, created by K-Safe."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/k-safe/upptime). 
