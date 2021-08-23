@@ -22,19 +22,19 @@
     "url": "$INSIGHTS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "busby-insights",
-    "status": "down",
-    "uptime": "7.93%",
-    "uptimeDay": "7.93%",
-    "uptimeWeek": "7.93%",
-    "uptimeMonth": "7.93%",
-    "uptimeYear": "7.93%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "5.69%",
+    "uptimeDay": "5.69%",
+    "uptimeWeek": "5.69%",
+    "uptimeMonth": "5.69%",
+    "uptimeYear": "5.69%",
+    "time": 902,
+    "timeDay": 902,
+    "timeWeek": 902,
+    "timeMonth": 902,
+    "timeYear": 902,
     "dailyMinutesDown": {
-      "2021-08-23": 0
+      "2021-08-23": 12
     }
   },
   {
