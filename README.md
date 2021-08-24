@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.busby.io): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [K-Safe Ltd.](http://www.k-safe.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [K-Safe Ltd](http://www.k-safe.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/k-safe/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/k-safe/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/k-safe/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/k-safe/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
