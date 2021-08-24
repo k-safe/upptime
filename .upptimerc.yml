@@ -21,12 +21,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status1.busby.io
+  cname: status.busby.io
   # baseUrl: /your-repo-name
   logoUrl: https://activate.busby.io/static/media/busby-logo-black.2ce4b36e.png
   favicon: https://activate.busby.io/favicon.png
   name: Busby Status
-  introTitle: "This is uptime monitor and status page for Busby, created by K-Safe."
+  introTitle: "This is the uptime monitor and status page for Busby by K-Safe."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/k-safe/upptime). 
   navbar:
     - title: Status
