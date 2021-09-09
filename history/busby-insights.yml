@@ -1,7 +1,7 @@
 url: $INSIGHTS_URL
-status: down
-code: 503
-responseTime: 18335
-lastUpdated: 2021-09-09T14:21:28.936Z
+status: up
+code: 200
+responseTime: 695
+lastUpdated: 2021-09-09T17:04:38.392Z
 startTime: Mon Aug 23 2021 19:24:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
