@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "busby-insights",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 1220,
     "timeDay": 744,
     "timeWeek": 755,
@@ -98,17 +98,19 @@
     "url": "$MARKETPLACE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "busby-marketplace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 491,
-    "timeWeek": 490,
-    "timeMonth": 492,
-    "timeYear": 492,
-    "dailyMinutesDown": {}
+    "time": 807,
+    "timeDay": 6320,
+    "timeWeek": 1947,
+    "timeMonth": 807,
+    "timeYear": 807,
+    "dailyMinutesDown": {
+      "2021-09-17": 0
+    }
   }
 ]
