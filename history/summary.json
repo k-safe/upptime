@@ -4,9 +4,9 @@
     "url": "$BUSBY_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "busby-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2702,
     "timeMonth": 2025,
     "timeYear": 1894,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-15": 0
+    }
   },
   {
     "name": "Busby Insights",
@@ -103,12 +105,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1003,
     "timeDay": 563,
-    "timeWeek": 3099,
+    "timeWeek": 511,
     "timeMonth": 1515,
     "timeYear": 1003,
     "dailyMinutesDown": {
