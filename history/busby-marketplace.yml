@@ -1,7 +1,7 @@
 url: $MARKETPLACE_URL
-status: up
-code: 200
-responseTime: 513
-lastUpdated: 2021-10-25T23:01:06.913Z
+status: down
+code: 502
+responseTime: 541
+lastUpdated: 2021-10-26T14:58:58.258Z
 startTime: Mon Aug 23 2021 19:24:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
