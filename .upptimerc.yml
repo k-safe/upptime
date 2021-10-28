@@ -16,7 +16,7 @@ sites:
   - name: Busby Marketplace
     url: $MARKETPLACE_URL
   - name: Busby Vault
-    url: $Vault_URL
+    url: $VAULT_URL
   # - name: Test Busby Broken Site
   #  url: https://thissitedoesnotexist.koj.co
 
