@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 1887,
-    "timeDay": 5392,
-    "timeWeek": 2052,
-    "timeMonth": 1997,
-    "timeYear": 1887,
+    "time": 1911,
+    "timeDay": 4604,
+    "timeWeek": 2272,
+    "timeMonth": 2054,
+    "timeYear": 1911,
     "dailyMinutesDown": {
       "2021-10-15": 8
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1029,
-    "timeDay": 767,
+    "time": 1027,
+    "timeDay": 815,
     "timeWeek": 864,
     "timeMonth": 859,
-    "timeYear": 1029,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2021-09-09": 129,
       "2021-08-24": 13,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 600,
-    "timeWeek": 479,
+    "time": 485,
+    "timeDay": 528,
+    "timeWeek": 476,
     "timeMonth": 470,
-    "timeYear": 486,
+    "timeYear": 485,
     "dailyMinutesDown": {}
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 44,
-    "timeWeek": 74,
-    "timeMonth": 95,
-    "timeYear": 104,
+    "time": 103,
+    "timeDay": 50,
+    "timeWeek": 72,
+    "timeMonth": 94,
+    "timeYear": 103,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 801,
-    "timeDay": 505,
-    "timeWeek": 703,
-    "timeMonth": 738,
-    "timeYear": 801,
+    "time": 798,
+    "timeDay": 542,
+    "timeWeek": 688,
+    "timeMonth": 733,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2021-10-11": 27
     }
@@ -108,15 +108,35 @@
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.90%",
-    "time": 908,
-    "timeDay": 403,
-    "timeWeek": 491,
-    "timeMonth": 1166,
-    "timeYear": 908,
+    "time": 902,
+    "timeDay": 413,
+    "timeWeek": 484,
+    "timeMonth": 1145,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2021-10-26": 72,
       "2021-10-08": 10,
       "2021-09-17": 9
+    }
+  },
+  {
+    "name": "Busby Vault",
+    "url": "$Vault_URL",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "busby-vault",
+    "status": "down",
+    "uptime": "6.32%",
+    "uptimeDay": "6.32%",
+    "uptimeWeek": "6.32%",
+    "uptimeMonth": "6.32%",
+    "uptimeYear": "6.32%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-10-28": 0
     }
   }
 ]
