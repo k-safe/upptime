@@ -1,7 +1,7 @@
 url: $BUSBY_URL
-status: up
-code: 200
-responseTime: 1785
-lastUpdated: 2021-11-10T23:00:56.036Z
+status: down
+code: 429
+responseTime: 2675
+lastUpdated: 2021-11-11T13:33:02.315Z
 startTime: Mon Aug 23 2021 18:40:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
