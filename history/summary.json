@@ -4,18 +4,20 @@
     "url": "$BUSBY_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "busby-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1953,
     "timeDay": 1690,
     "timeWeek": 2816,
-    "timeMonth": 2063,
+    "timeMonth": 2060,
     "timeYear": 1953,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-15": 0
+    }
   },
   {
     "name": "Busby Insights",
