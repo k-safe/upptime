@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1939,
-    "timeDay": 1466,
-    "timeWeek": 2125,
-    "timeMonth": 2037,
-    "timeYear": 1939,
+    "time": 1932,
+    "timeDay": 1386,
+    "timeWeek": 2050,
+    "timeMonth": 2016,
+    "timeYear": 1932,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.89%",
-    "time": 975,
-    "timeDay": 845,
-    "timeWeek": 742,
-    "timeMonth": 815,
-    "timeYear": 975,
+    "time": 974,
+    "timeDay": 867,
+    "timeWeek": 761,
+    "timeMonth": 817,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2021-11-01": 8,
       "2021-09-09": 129
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 509,
-    "timeWeek": 474,
-    "timeMonth": 484,
-    "timeYear": 488,
+    "time": 489,
+    "timeDay": 525,
+    "timeWeek": 483,
+    "timeMonth": 486,
+    "timeYear": 489,
     "dailyMinutesDown": {}
   },
   {
@@ -68,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 186,
-    "timeWeek": 141,
+    "timeDay": 155,
+    "timeWeek": 135,
     "timeMonth": 106,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -86,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 773,
-    "timeDay": 581,
-    "timeWeek": 611,
-    "timeMonth": 669,
+    "timeDay": 661,
+    "timeWeek": 634,
+    "timeMonth": 673,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2021-10-11": 27
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.94%",
-    "time": 805,
-    "timeDay": 502,
-    "timeWeek": 462,
+    "time": 802,
+    "timeDay": 504,
+    "timeWeek": 468,
     "timeMonth": 478,
-    "timeYear": 805,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2021-10-29": 7,
       "2021-10-26": 72
@@ -126,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 432,
-    "timeWeek": 374,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "time": 419,
+    "timeDay": 460,
+    "timeWeek": 390,
+    "timeMonth": 419,
+    "timeYear": 419,
     "dailyMinutesDown": {}
   }
 ]
