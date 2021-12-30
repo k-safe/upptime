@@ -4,27 +4,27 @@ repo: upptime # The name of this repository
 sites:
   - name: Busby Main Site
     url: $BUSBY_URL
-  - name: Busby Insights
+  - name: Flare Insights
     url: $INSIGHTS_URL
   - name: Busby Ideas
     url: $IDEAS_URL
-  - name: Busby Partner Portal
+  - name: Flare Partner Portal
     url: $PARTNER_URL
-  - name: Busby Support
+  - name: Flare Support
     url: $SUPPORT_URL
-  - name: Busby Marketplace
+  - name: Flare Marketplace
     url: $MARKETPLACE_URL
-  - name: Busby Vault
+  - name: Vault
     url: $VAULT_URL
   # - name: Test Busby Broken Site
   #  url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  cname: status.busby.io
+  cname: status.flaresafety.com
   logoUrl: https://activate.busby.io/static/media/busby-logo-black.2ce4b36e.png
   favicon: https://activate.busby.io/favicon.png
-  name: Busby Status
-  introTitle: "This is the uptime monitor and status page for Busby by K-Safe."
+  name: Flare Status
+  introTitle: "This is the uptime monitor and status page for Flare by K-Safe."
   introMessage: This is a status page which uses **real-time** data from our GitHub repository. 
   navbar:
     - title: Status
