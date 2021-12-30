@@ -12,6 +12,9 @@ sites:
     url: $PARTNER_URL
   - name: Flare Support
     url: $SUPPORT_URL
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Flare Marketplace
     url: $MARKETPLACE_URL
   - name: Vault
