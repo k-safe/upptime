@@ -4,19 +4,19 @@
     "url": "$FLARE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flare-main-site",
-    "status": "down",
-    "uptime": "0.65%",
-    "uptimeDay": "0.65%",
-    "uptimeWeek": "0.65%",
-    "uptimeMonth": "0.65%",
-    "uptimeYear": "0.65%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "49.02%",
+    "uptimeDay": "49.02%",
+    "uptimeWeek": "49.02%",
+    "uptimeMonth": "49.02%",
+    "uptimeYear": "49.02%",
+    "time": 624,
+    "timeDay": 624,
+    "timeWeek": 624,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2022-01-12": 0
+      "2022-01-12": 2
     }
   },
   {
