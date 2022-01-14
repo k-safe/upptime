@@ -24,8 +24,8 @@ sites:
 
 status-website:
   cname: status.flaresafety.com
-  logoUrl: https://activate.busby.io/static/media/busby-logo-black.2ce4b36e.png
-  favicon: https://activate.busby.io/favicon.png
+  logoUrl: $LOGO_URL
+  favicon: $FAVICON_URL
   name: Flare Status
   introTitle: "This is the uptime monitor and status page for Flare by K-Safe."
   introMessage: This is a status page which uses **real-time** data from our GitHub repository. 
