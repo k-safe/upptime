@@ -26,7 +26,7 @@ This repository contains the open-source uptime monitor and status page for [K-S
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.busby.io)
+[**Visit our status website →**](https://status.flaresafety.com)
 
 ## 📄 License
 
