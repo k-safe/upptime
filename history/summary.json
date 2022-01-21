@@ -42,19 +42,19 @@
     "url": "$IDEAS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flare-ideas",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 469,
-    "timeDay": 469,
-    "timeWeek": 469,
-    "timeMonth": 469,
-    "timeYear": 469,
+    "status": "up",
+    "uptime": "82.38%",
+    "uptimeDay": "82.38%",
+    "uptimeWeek": "82.38%",
+    "uptimeMonth": "82.38%",
+    "uptimeYear": "82.38%",
+    "time": 470,
+    "timeDay": 470,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2022-01-21": 0
+      "2022-01-21": 12
     }
   },
   {
