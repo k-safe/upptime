@@ -6,7 +6,7 @@ sites:
     url: $FLARE_URL
   - name: Flare Insights
     url: $INSIGHTS_URL
-  - name: Busby Ideas
+  - name: Flare Ideas
     url: $IDEAS_URL
   - name: Flare Partner Portal
     url: $PARTNER_URL
