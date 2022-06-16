@@ -30,7 +30,7 @@
     "uptime": "60.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.48%",
+    "uptimeMonth": "77.50%",
     "uptimeYear": "60.27%",
     "time": 813,
     "timeDay": 712,
@@ -193,19 +193,19 @@
     "url": "$MARKETPLACE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flare-marketplace",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 573,
-    "timeDay": 415,
-    "timeWeek": 556,
-    "timeMonth": 560,
-    "timeYear": 573,
+    "time": 572,
+    "timeDay": 450,
+    "timeWeek": 552,
+    "timeMonth": 559,
+    "timeYear": 572,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-16": 8
     }
   }
 ]
