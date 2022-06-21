@@ -28,11 +28,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flare-insights",
     "status": "up",
-    "uptime": "61.28%",
+    "uptime": "61.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.91%",
-    "uptimeYear": "61.28%",
+    "uptimeMonth": "92.79%",
+    "uptimeYear": "61.34%",
     "time": 814,
     "timeDay": 1015,
     "timeWeek": 830,
@@ -115,11 +115,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flare-ideas",
     "status": "up",
-    "uptime": "85.45%",
+    "uptime": "85.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.45%",
+    "uptimeYear": "85.48%",
     "time": 462,
     "timeDay": 523,
     "timeWeek": 297,
@@ -194,9 +194,9 @@
     "url": "$MARKETPLACE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flare-marketplace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -205,6 +205,8 @@
     "timeWeek": 496,
     "timeMonth": 554,
     "timeYear": 570,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
