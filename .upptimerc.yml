@@ -17,7 +17,7 @@ sites:
       - 403
   - name: Flare Marketplace
     url: $MARKETPLACE_URL
-  - name: Flare Aware Geospatial Service - Production
+  - name: Flare Aware Geospatial Service - Production #Flare-Aware Service
     url: $GEOSPATIALPROD
   #- name: Flare Geospacial Services - Development
   #  url: $GEOSPACIALDEV
