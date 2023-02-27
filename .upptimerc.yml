@@ -17,6 +17,10 @@ sites:
       - 403
   - name: Flare Marketplace
     url: $MARKETPLACE_URL
+  - name: Flare Aware Geospatial Service - Production
+    url: $GEOSPATIALPROD
+  #- name: Flare Geospacial Services - Development
+  #  url: $GEOSPACIALDEV
   #- name: Vault
   #  url: $VAULT_URL
   # - name: Test Busby Broken Site
@@ -27,13 +31,15 @@ status-website:
   logoUrl: $LOGO_URL
   favicon: $FAVICON_URL
   name: Flare Status
-  introTitle: "This is the uptime monitor and status page for Flare by K-Safe."
-  introMessage: This is a status page which uses **real-time** data from our GitHub repository. 
+  introTitle: "This is the uptime monitor and status page for Flare"
+  introMessage: This is a status page which uses **real-time** data from our Flare Platform Services. 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Flare
+      href: https://flaresafety.com
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
